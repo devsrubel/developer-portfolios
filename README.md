@@ -1283,6 +1283,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rutansh Chawla](https://rutansh.is-a.dev) [Software Engineer]
 - [Rutik Kulkarni](https://www.crio.do/learn/portfolio/rutikkulkarni2001)
 - [Ryan Aguiar](https://my-portfolio-rho-indol-29.vercel.app)
+- [Rubel Hossain](https://developerrubel.com)
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan Chen](https://ryanyychen.github.io/portfolio) [Student]
 - [Ryan Fitton](https://ryanfitton.co.uk)
